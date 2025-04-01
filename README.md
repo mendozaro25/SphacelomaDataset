@@ -17,8 +17,8 @@ Este proyecto utiliza [YOLOv8](https://github.com/ultralytics/ultralytics) para 
 
 ### 1️⃣ Clonar el repositorio
 ```sh
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
+git clone https://github.com/mendozaro25/SphacelomaDataset.git
+cd SphacelomaDataset
 ```
 
 ### 2️⃣ Crear un entorno virtual (opcional pero recomendado)
