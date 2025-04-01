@@ -1,0 +1,5 @@
+path: ../SphacelomaDataset
+train: C:\Users\Juan\Documents\Dev\Python\SphacelomaDataset\images\train
+val: C:\Users\Juan\Documents\Dev\Python\SphacelomaDataset\images\val
+nc: 1
+names: ['a']

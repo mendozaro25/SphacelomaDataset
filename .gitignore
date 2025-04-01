@@ -1,0 +1,17 @@
+# Ignore everything in this directory
+
+/images/train/*
+/images/val/*
+
+# Ignore everything in this directory
+
+/labels/train/*
+/labels/val/*
+
+# Ignore everything in this directory
+
+/runs/*
+    
+# Ignore everything in this directory
+
+yolov8n.pt
